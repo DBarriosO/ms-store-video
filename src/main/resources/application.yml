@@ -17,7 +17,7 @@ info:
 
 # HTTP Server
 server:
-  port: ${PORT}   # HTTP (Tomcat) port
+  port: 8081   # HTTP (Tomcat) port
 
 #SecretKey Token
 authapp:
