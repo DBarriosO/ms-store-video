@@ -32,9 +32,9 @@ authapp:
 
 
 spring.datasource.platform: postgres 
-spring.datasource.url: jdbc:postgresql://ec2-54-197-232-155.compute-1.amazonaws.com:5432/dfqks935t4qp6g
-spring.datasource.username: dezvhfswhtyqvn
-spring.datasource.password: 19b6c722a0a7cee129a66d2593e0f2cbc16287ca75c8a381b8f4cc6d09af572a
+spring.datasource.url: jdbc:postgresql://ec2-174-129-37-15.compute-1.amazonaws.com/d7568mc7rskp3m
+spring.datasource.username: fuqnylulsayooc
+spring.datasource.password: 73a44a5658b0e1958b0c41afaafee5eec74ceb5ad5fabc00bb03c54593baed8e
 spring.datasource.driver-class-name: org.postgresql.Driver
 
 #spring.datasource.url=${JDBC_DATABASE_URL}
