@@ -1,0 +1,1 @@
+web:  java -Dserver.port=$PORT $JAVA_OPTS -jar target/back-video-capitol-1.0-SNAPSHOT-javadoc.jar
